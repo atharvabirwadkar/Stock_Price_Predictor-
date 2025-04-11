@@ -70,27 +70,10 @@ Below is a sample of the model's output visualizing the predicted vs. actual pri
 
 ---
 
-## 🔗 GitHub / OneDrive Link
+## 🔗 GitHub 
 
 - 🔗 **GitHub Repository:** [https://github.com/yourusername/stock-lstm-predictor](https://github.com/yourusername/stock-lstm-predictor)  
-- ☁️ **OneDrive Folder:** [https://onedrive.live.com/your-link](https://onedrive.live.com/your-link)  
-*(Replace with actual links)*
 
 ---
 
-## 📦 Installation
 
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/stock-lstm-predictor.git
-
-# Navigate to the folder
-cd stock-lstm-predictor
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter
-jupyter notebook
