@@ -40,3 +40,57 @@ The stock market is highly volatile and influenced by various technical factors.
 ---
 
 
+## 📌 Project Structure
+
+
+---
+
+## 🖼️ Screenshots / Results
+
+Below is a sample of the model's output visualizing the predicted vs. actual prices:
+
+<p align="center">
+  <img src="screenshots/prediction_plot.png" alt="Prediction Results" width="600">
+</p>
+
+- The above plot displays **predicted Open/Close prices** compared to actual values for a sample stock like `RELIANCE.NS`.
+- The LSTM model captures the trend of stock movements quite effectively over time.
+
+---
+
+## ✅ Conclusion
+
+- The LSTM-based model shows promising results in predicting stock prices based on technical indicators alone.
+- By avoiding reliance on company-specific fundamental data, it ensures generalization across stocks with limited financial transparency.
+- Future improvements may include:
+  - Hyperparameter optimization
+  - Attention mechanisms
+  - Real-time deployment via a web app (e.g., Gradio or Streamlit)
+  - Integration of sentiment analysis from financial news
+
+---
+
+## 🔗 GitHub / OneDrive Link
+
+- 🔗 **GitHub Repository:** [https://github.com/yourusername/stock-lstm-predictor](https://github.com/yourusername/stock-lstm-predictor)  
+- ☁️ **OneDrive Folder:** [https://onedrive.live.com/your-link](https://onedrive.live.com/your-link)  
+*(Replace with actual links)*
+
+---
+
+## 📦 Installation
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/stock-lstm-predictor.git
+
+# Navigate to the folder
+cd stock-lstm-predictor
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter
+jupyter notebook
