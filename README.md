@@ -45,19 +45,6 @@ The stock market is highly volatile and influenced by various technical factors.
 
 ---
 
-## 🖼️ Screenshots / Results
-
-Below is a sample of the model's output visualizing the predicted vs. actual prices:
-
-<p align="center">
-  <img src="screenshots/prediction_plot.png" alt="Prediction Results" width="600">
-</p>
-
-- The above plot displays **predicted Open/Close prices** compared to actual values for a sample stock like `RELIANCE.NS`.
-- The LSTM model captures the trend of stock movements quite effectively over time.
-
----
-
 ## ✅ Conclusion
 
 - The LSTM-based model shows promising results in predicting stock prices based on technical indicators alone.
