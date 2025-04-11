@@ -59,7 +59,7 @@ The stock market is highly volatile and influenced by various technical factors.
 
 ## 🔗 GitHub 
 
-- 🔗 **GitHub Repository:** [https://github.com/yourusername/stock-lstm-predictor](https://github.com/yourusername/stock-lstm-predictor)  
+- 🔗 **GitHub Repository:** [https://github.com/atharvabirwadkar/Stock_Price_Predictor-/tree/main](https://github.com/atharvabirwadkar/Stock_Price_Predictor-/tree/main)  
 
 ---
 
